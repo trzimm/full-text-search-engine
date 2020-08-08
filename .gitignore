@@ -1,0 +1,4 @@
+*.pickle
+*.xml
+__pycache__
+/data/*
